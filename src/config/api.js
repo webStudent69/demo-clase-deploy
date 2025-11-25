@@ -9,8 +9,8 @@ export const API_CONFIG = {
     CUSTOMERS: '/sales/customers/',
     ORDERS: '/sales/orders/',
     DASHBOARD: '/reports/reports/dashboard_summary/',
-    SALES_REPORT: '/reports/reports/sales_report/',
-    INVENTORY_REPORT: '/reports/reports/inventory_report/'
+    SALES_REPORT: '/reports/sales_report/',
+    INVENTORY_REPORT: '/reports/inventory_report/'
   }
 }
 
