@@ -1,6 +1,6 @@
 // API Configuration
 export const API_CONFIG = {
-  BASE_URL: 'http://185.218.124.154:8800/api',
+  BASE_URL: 'https://minierp.rbnetto.dev/api',
   ENDPOINTS: {
     LOGIN: '/users/users/login/',
     PROFILE: '/users/users/profile/',
